@@ -1,4 +1,6 @@
-For your final project you will build a website displaying three pieces that show off:
+# Final Project
+
+## For your final project you will build a website displaying three pieces that show off:
 
 1.  Your wrangling skills
 
@@ -8,12 +10,12 @@ For your final project you will build a website displaying three pieces that sho
 
 You do not need to make new versions of these things. You can just move the files into this new project you've created. If you have kept organized this should be quick. If you have not kept organized remember that your github repos have your work in them. You are welcome to make new data pieces, but don't spend to much time on that.
 
-You will get two outcomes from this project:
+## You will get two outcomes from this project:
 
 1.  You will learn a bit about how to publish a website on the internet.
 2.  You will understand the filing structure that R (and all programming languages) use.
 
-Requirements:
+## Requirements:
 
 1.  All your wrangling, SQL and mapping files must be individual files on different webpages. They must be rendered to html.
 
@@ -33,7 +35,7 @@ Requirements:
 
 6.  Your website must be pushed to github and turned on and working. So please test it. When you are done submit the link to your site to the forum on moodle.
 
-Optional:
+## Optional:
 
 1.  [Here is the website for quarto websites.](https://quarto.org/docs/websites/)
 
@@ -48,3 +50,6 @@ A few things to note:
 -   After your website is graded, I'll turn them off. If you would like you can turn them on and do whatever you want with it. Keep in mind when you graduate from Smith you'll lose your Smith email and likely your repo/website.
 
 -   This is meant to be a simple skill that students last semester wished they knew how to do. It should not be very very time consuming. Make something that meet requirements then move on. You can perfect it over the summer.
+
+
+This is due on the last day of finals week. 
